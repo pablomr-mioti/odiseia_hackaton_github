@@ -1,0 +1,102 @@
+Resumen del documento:
+El documento EX-17 es un formulario esencial, fundamentado en la LO 4/2000 y el RD 557/2011, utilizado para solicitar diversas autorizaciones de residencia temporal por circunstancias excepcionales en España, incluyendo arraigo (laboral, social, familiar, para la formación), razones de protección internacional, humanitarias, colaboración con autoridades, y situaciones de violencia de género o trata de seres humanos. El formulario recopila datos del solicitante (datos personales, representante legal si aplica, y domicilio para notificaciones), datos relativos a la solicitud (tipo de documento) y requiere la firma del solicitante. Incluye instrucciones detalladas para su correcta cumplimentación, como el formato de fechas, opciones de estado civil y consideraciones sobre la notificación electrónica. Su utilidad radica en ser el medio formal para iniciar el proceso de regularización en situaciones específicas y excepcionales, permitiendo a los solicitantes acceder a un estatus legal en el país.
+
+Código del documento: EX-17
+
+Leyes en las que sustentan:
+LO 4/2000
+RD 557/2011
+
+Procesos donde este formulario es necesario:
+Autorización de residencia temporal por circunstancias excepcionales. Arraigo para la formación (HI 108)
+Autorización de residencia temporal por circunstancias excepcionales. Arraigo laboral (HI 35)
+Autorización de residencia temporal por circunstancias excepcionales. Arraigo social (HI 36)
+Autorización de residencia temporal por circunstancias excepcionales. Arraigo familiar (HI 37)
+Autorización de residencia temporal por circunstancias excepcionales por razones de protección internacional (HI 38)
+Autorización de residencia temporal por circunstancias excepcionales por razones humanitarias. Incluye anexo de autorización de trabajo (HI 39)
+Autorización de residencia temporal por circunstancias excepcionales por colaboración con autoridades policiales, ﬁscales, judiciales o seguridad nacional. Incluye anexo de Autorización de trabajo (HI 40)
+Autorización de residencia temporal por circunstancias excepcionales por colaboración con autoridades administrativas o interés público y colaboración con la administración laboral. Incluye anexo de autorización de trabajo (HI 41)
+Autorización de residencia temporal y trabajo por circunstancias excepcionales de mujeres extranjeras víctimas de violencia de género o de violencia sexual. Incluye anexo de Autorización de trabajo (HI 42)
+Autorización de residencia temporal y trabajo por circunstancias excepcionales por colaboración con autoridades administrativas no policiales, contra redes organizadas. Incluye anexo de Autorización de trabajo (HI 43)
+Autorización de residencia temporal y trabajo por circunstancias excepcionales por colaboración con autoridades policiales, ﬁscales o judiciales, contra redes organizadas (HI 44)
+Autorización de residencia temporal y trabajo por circunstancias excepcionales de extranjeros víctimas de trata de seres humanos. Incluye anexo de retorno asistido (HI 45)
+
+Instrucciones de como rellenar el documento:
+1) Marque la opción que proceda. Hombre / Mujer/ X- Indefinido. *X- Indefinido: Esta casilla solo podrá marcarse por aquellas personas que lo tengan reconocido en su país de origen.
+2) Rellenar utilizando 2 dígitos para el día, 2 para el mes y 4 para el año, en este orden (dd/mm/aaaa)
+3) Marque la opción que proceda. Soltero / Casado / Viudo / Divorciado / Separado
+4) Indique el título en base al cual se ostenta la representación, por ejemplo: Padre/Madre del menor, Tutor...
+5) Rellenar sólo en el caso de ser persona distinta del solicitante.
+6) Conforme a la DA 4ª del RD 557/2011, están obligados a la notificación electrónica, aunque no hayan dado su consentimiento, las personas jurídicas y los colectivos de personas físicas que, por su capacidad económica o técnica, dedicación profesional u otros motivos acreditados, tengan garantizado el acceso y disponibilidad de los medios tecnológicos precisos. Si usted no está incluido en alguno de los colectivos mencionados, se le notificará por esta vía únicamente si marca la casilla de consentimiento. En ambos casos la notificación consistirá en la puesta a disposición del documento en la sede electrónica del Ministerio de Política Territorial y Función Pública (https://sede.administracionespublicas.gob.es/). La notificación se realizará a la persona cuyos datos se indiquen en el apartado "domicilio a efectos de notificaciones" o, en su defecto, al solicitante. Para acceder al contenido del documento es necesario disponer de certificado electrónico asociado al DNI/NIE que figure en el apartado "domicilio a efecto de notificaciones". Es conveniente además que rellene los campos "teléfono móvil” o “e-mail" para tener la posibilidad de enviarle un aviso (meramente informativo) cuando tenga una notificación pendiente.
+7) Marque la opción que corresponda.
+
+Secciones a rellenar del formulario:
+
+Sección 1) DATOS DEL EXTRANJERO/A.
+Explicacion: En esta sección, debes proporcionar información personal como tu nombre, apellidos, fecha de nacimiento, nacionalidad, domicilio en España y datos de contacto. También se solicita el número de pasaporte y el NIE (Número de Identificación de Extranjero), si lo tienes. Deberás indicar tu sexo y estado civil, así como el nombre de tus padres. Si tienes un representante legal, también debes proporcionar sus datos, incluyendo su DNI/NIE/PAS y título.
+
+Sección 2) DATOS DEL REPRESENTANTE A EFECTOS DE PRESENTACIÓN DE LA SOLICITUD.
+Explicacion: Esta sección se completa solo si tienes un representante que presenta la solicitud en tu nombre. Debes proporcionar el nombre o razón social del representante, su domicilio en España, datos de contacto y su DNI/NIE/PAS, junto con el título que le permite actuar como tu representante.
+
+Sección 3) DOMICILIO A EFECTOS DE NOTIFICACIONES.
+Explicacion: Aquí debes indicar la dirección donde deseas recibir notificaciones relacionadas con tu solicitud. Proporciona el nombre o razón social, domicilio en España, datos de contacto y DNI/NIE/PAS.
+
+Sección 1) Datos del titular.
+Explicacion: Esta sección requiere el nombre y apellidos de la persona que realiza la solicitud.
+
+Sección 4) Datos relativos a la solicitud.
+Explicacion: En esta sección, se debe indicar el tipo de documento que se solicita, marcando la casilla correspondiente a 'Tarjeta Inicial', 'Renovación de Tarjeta' o 'Duplicado por robo, extravío, destrucción o inutilización'.
+
+Sección 5) Firma del solicitante.
+Explicacion: Esta sección requiere la firma del solicitante o su representante legal, así como la fecha de la firma.
+
+Sección 6) Datos de la administración.
+Explicacion: Esta sección requiere información sobre a quién va dirigida la solicitud, el código DIR3 y la provincia.
+
+Campos a rellenar:
+
+pagina 0
+Campos de imputacion
+Nombre: PASAPORTE.
+Nombre: N.I.E..
+Nombre: 1er Apellido.
+Nombre: 2º Apellido.
+Nombre: Nombre.
+Nombre: Fecha de nacimiento.
+Nombre: Lugar.
+Nombre: País.
+Nombre: Nacionalidad.
+Nombre: Nombre del padre.
+Nombre: Nombre de la madre.
+Nombre: Domicilio en España.
+Nombre: Localidad.
+Nombre: C.P..
+Nombre: Provincia.
+Nombre: Teléfono móvil.
+Nombre: E-mail.
+Nombre: Representante legal, en su caso.
+Nombre: DNI/NIE/PAS.
+Nombre: Título.
+Nombre: Nombre/Razón Social.
+pagina 1
+Campos de imputacion
+Nombre: Nombre y apellidos del titular.
+Nombre: DIRIGIDA A.
+Nombre: Código DIR3.
+Nombre: PROVINCIA.
+pagina 0
+Campos de selección
+Nombre: Sexo (1) X*.
+Nombre: Sexo (1) H.
+Nombre: Sexo (1) M.
+Nombre: Estado civil(3) S.
+Nombre: Estado civil(3) C.
+Nombre: Estado civil(3) V.
+Nombre: Estado civil(3) D.
+Nombre: Estado civil(3) Sp.
+Nombre: CONSIENTO que las comunicaciones y notificaciones se realicen mediante puesta a disposición en la Dirección electrónica habilitada Única (Dehú), para lo cual será obligatorio disponer de certificado electrónico válido o sistema cl@ve (6).
+pagina 1
+Campos de selección
+Nombre: TARJETA INICIAL.
+Nombre: RENOVACIÓN DE TARJETA.
+Nombre: DUPLICADO POR ROBO, EXTRAVÍO, DESTRUCCIÓN O INUTILIZACIÓN.

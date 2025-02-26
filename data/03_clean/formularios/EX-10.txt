@@ -1,0 +1,137 @@
+Resumen del documento:
+El documento EX-10 es un formulario esencial para solicitar autorizaciones de residencia temporal por circunstancias excepcionales en España, amparado en la LO 4/2000 y el RD 557/2011. Su propósito principal es recopilar la información necesaria para tramitar diversas autorizaciones, incluyendo arraigo laboral, social, familiar, para la formación, razones de protección internacional, humanitarias, colaboración con autoridades, y para víctimas de violencia de género o trata de seres humanos. El formulario se estructura en secciones que recogen datos del solicitante extranjero, del familiar español (si aplica), del representante legal (si lo hay), el domicilio para notificaciones y el tipo de autorización solicitada. Las instrucciones detalladas aseguran su correcta cumplimentación, incluyendo especificaciones sobre la obligatoriedad de notificación electrónica para ciertos colectivos y el plazo para aportar la matrícula en caso de autorizaciones de residencia para la formación. Su utilidad radica en ser el medio formal para iniciar el proceso de regularización en situaciones excepcionales, facilitando la gestión administrativa y el cumplimiento de la legislación vigente en materia de extranjería.
+
+Código del documento: EX-10
+
+Leyes en las que sustentan:
+LO 4/2000
+RD 557/2011
+
+Procesos donde este formulario es necesario:
+Autorización de residencia temporal por circunstancias excepcionales. Arraigo para la formación (HI 108)
+Autorización de residencia temporal por circunstancias excepcionales. Arraigo laboral (HI 35)
+Autorización de residencia temporal por circunstancias excepcionales. Arraigo social (HI 36)
+Autorización de residencia temporal por circunstancias excepcionales. Arraigo familiar (HI 37)
+Autorización de residencia temporal por circunstancias excepcionales por razones de protección internacional (HI 38)
+Autorización de residencia temporal por circunstancias excepcionales por razones humanitarias. Incluye anexo de autorización de trabajo (HI 39)
+Autorización de residencia temporal por circunstancias excepcionales por colaboración con autoridades policiales, ﬁscales, judiciales o seguridad nacional. Incluye anexo de Autorización de trabajo (HI 40)
+Autorización de residencia temporal por circunstancias excepcionales por colaboración con autoridades administrativas o interés público y colaboración con la administración laboral. Incluye anexo de autorización de trabajo (HI 41)
+Autorización de residencia temporal y trabajo por circunstancias excepcionales de mujeres extranjeras víctimas de violencia de género o de violencia sexual. Incluye anexo de Autorización de trabajo (HI 42)
+Autorización de residencia temporal y trabajo por circunstancias excepcionales por colaboración con autoridades administrativas no policiales, contra redes organizadas. Incluye anexo de Autorización de trabajo (HI 43)
+Autorización de residencia temporal y trabajo por circunstancias excepcionales por colaboración con autoridades policiales, ﬁscales o judiciales, contra redes organizadas (HI 44)
+Autorización de residencia temporal y trabajo por circunstancias excepcionales de extranjeros víctimas de trata de seres humanos. Incluye anexo de retorno asistido (HI 45)
+
+Instrucciones de como rellenar el documento:
+1) Marque la opción que proceda. Hombre / Mujer/ X- Indefinido. *X- Indefinido: Esta casilla solo podrá marcarse por aquellas personas que lo tengan reconocido en su país de origen.
+2) Rellenar utilizando 2 dígitos para el día, 2 para el mes y 4 para el año, en este orden (dd/mm/aaaa)
+3) Marque la opción que proceda. Soltero / Casado / Viudo / Divorciado / Separado
+4) Indique el título en base al cual se ostenta la representación, por ejemplo: Padre/Madre del menor, Administrador Único, Consejero Delegado...
+5) Rellenar sólo en el caso de ser persona distinta del solicitante.
+6) Conforme a la DA 4ª del RD 557/2011, están obligados a la notificación electrónica, aunque no hayan dado su consentimiento, las personas jurídicas y los colectivos de personas físicas que, por su capacidad económica o técnica, dedicación profesional u otros motivos acreditados, tengan garantizado el acceso y disponibilidad de los medios tecnológicos precisos. Si usted no está incluido en alguno de los colectivos mencionados, se le notificará por esta vía únicamente si marca la casilla de consentimiento. En ambos casos la notificación consistirá en la puesta a disposición del documento en la sede electrónica del Ministerio de Política Territorial y Función Pública (https://sede.administracionespublicas.gob.es/). La notificación se realizará a la persona cuyos datos se indiquen en el apartado "domicilio a efectos de notificaciones" o, en su defecto, al solicitante. Para acceder al contenido del documento es necesario disponer de certificado electrónico asociado al DNI/NIE que figure en el apartado "domicilio a efecto de notificaciones". Es conveniente además que rellene los campos "teléfono móvil” o “e-mail" para tener la posibilidad de enviarle un aviso (meramente informativo) cuando tenga una notificación pendiente.
+7) Marque la opción que corresponda.
+8) Deberá aportarse la matrícula en un plazo máximo de tres meses desde la notificación de la resolución de la concesión de la autorización de residencia. En otro caso, se podrá iniciar un expediente de extinción.
+
+Secciones a rellenar del formulario:
+
+Sección 1) DATOS DEL EXTRANJERO/A.
+Explicacion: En esta sección, debes proporcionar información personal como tu nombre, apellidos, número de pasaporte, fecha de nacimiento, nacionalidad, domicilio en España y datos de contacto. También se solicita el nombre de tus padres y si tienes un representante legal.
+
+Sección 2) DATOS DEL FAMILIAR ESPAÑOL / ESPAÑOL DE ORIGEN O PERSONA A CARGO DE DISCAPACITADO DE NACIONALIDAD ESPAÑOLA, QUE OTORGA DERECHO DE ARRAIGO FAMILIAR.
+Explicacion: Aquí debes proporcionar información sobre el familiar español o persona a cargo con nacionalidad española que te da derecho a solicitar el arraigo familiar. Incluye datos como nombre, apellidos, DNI, fecha de nacimiento, domicilio y el vínculo familiar que tienes con esa persona.
+
+Sección 3) DATOS DEL REPRESENTANTE A EFECTOS DE PRESENTACIÓN DE LA SOLICITUD.
+Explicacion: Si tienes un representante que presenta la solicitud en tu nombre, debes proporcionar sus datos, como nombre o razón social, domicilio, datos de contacto y el DNI/NIE/PAS del representante.
+
+Sección 4) DOMICILIO A EFECTOS DE NOTIFICACIONES.
+Explicacion: Indica la dirección donde deseas recibir notificaciones relacionadas con tu solicitud. Incluye nombre o razón social, domicilio en España, datos de contacto y el DNI/NIE/PAS.
+
+Sección 5) TIPO DE AUTORIZACIÓN SOLICITADA.
+Explicacion: Esta sección detalla los diferentes tipos de autorizaciones que se pueden solicitar, dividiéndose en Residencia Inicial, Prórroga de Residencia, Renovación Especial de Residencia y Residencia y Trabajo. Cada una de estas categorías incluye diferentes supuestos específicos (como arraigo laboral, arraigo social, etc.) con sus respectivos artículos de referencia en la legislación española. El solicitante debe seleccionar el tipo de autorización que corresponda a su situación.
+
+Campos a rellenar:
+
+pagina 0
+Campos de imputacion
+Nombre: PASAPORTE.
+Nombre: N.I.F..
+Nombre: 1er Apellido.
+Nombre: 2° Apellido.
+Nombre: Nombre.
+Nombre: Lugar.
+Nombre: País.
+Nombre: Nacionalidad.
+Nombre: Nombre del padre.
+Nombre: Nombre de la madre.
+Nombre: Domicilio en España.
+Nombre: Localidad.
+Nombre: C.P..
+Nombre: Provincia.
+Nombre: Teléfono móvil.
+Nombre: E-mail.
+Nombre: DNI/NIE/PAS.
+Nombre: Título.
+Nombre: D.N.I..
+Nombre: Vínculo con el familiar o discapacitado a cargo.
+Nombre: Nombre/Razón Social.
+pagina 1
+Campos de imputacion
+Nombre: Nombre y apellidos del titular.
+Nombre: Otros.
+Nombre: DIRIGIDA A.
+Nombre: Código DIR3.
+Nombre: PROVINCIA.
+pagina 0
+Campos de selección
+Nombre: Sexo (1) X*.
+Nombre: Sexo (1) H.
+Nombre: Sexo (1) M.
+Nombre: Estado civil(3) S.
+Nombre: Estado civil(3) C.
+Nombre: Estado civil(3) V.
+Nombre: Estado civil(3) D.
+Nombre: Estado civil(3) Sp.
+pagina 1
+Campos de selección
+Nombre: RESIDENCIA INICIAL.
+Nombre: Arraigo Laboral (art. 124.1).
+Nombre: Arraigo Social (art. 124.2).
+Nombre: Arraigo Familiar (art. 124.3).
+Nombre: Arraigo Formación (art. 124.4).
+Nombre: Protección internacional (art. 125).
+Nombre: Desplazados (art. 125).
+Nombre: Otros supuestos regulados de protección internacional (art. 125).
+Nombre: Razones humanitarias: víctima de determinados delitos (art. 126.1).
+Nombre: Razones humanitarias: enfermedad sobrevenida o menor desplazado para tratamiento médico (art. 126.2).
+Nombre: Razones humanitarias: peligro para su seguridad o su familia (art. 126.3).
+Nombre: Colaboración con autoridades administrativas (art. 127.1).
+Nombre: Colaboración con autoridades policiales, fiscales o judiciales (art. 127.1).
+Nombre: Colaboración con autoridades laborales competentes (art.127.2).
+Nombre: Razones de seguridad nacional (art. 127.1).
+Nombre: Interés público (art. 127.1).
+Nombre: Hijo de víctima de violencia de género <16 años o discapacitado en España (arts. 132.2 y 134.1).
+Nombre: Hijo de víctima de violencia sexual <16 años en España (art. 31 bis Ley Orgánica 4/2000).
+Nombre: Hijo de víctima de trata <16 años o discapacitado en España (art. 59. Bis 2 LO 4/2000).
+Nombre: Joven extranjero ex tutelado que al alcanzar la mayoría de edad no es titular de una autorización de residencia (art. 198).
+Nombre: Joven extranjero ex tutelado entre 18 y 23 años, que no es titular de autorización de residencia (art. 198 y DT única).
+Nombre: Otras circunstancias no previstas, competencia de la SEIE con informe previo de la SES (DA 1ª.4).
+Nombre: Otros.
+Nombre: PRÓRROGA DE RESIDENCIA.
+Nombre: Titular de autorización de residencia por CCEE, en el supuesto de Arraigo Laboral (art. 124.1).
+Nombre: Titular de autorización de residencia por CCEE, en el supuesto de Arraigo Social (art. 124.2).
+Nombre: Titular de autorización de residencia por CCEE, en el supuesto de Arraigo Familiar (art. 124.3).
+Nombre: Titular de autorización de residencia por CCEE, en el supuesto de Arraigo Formación (art. 124.4).
+Nombre: Titular de autorización de residencia por CCEE concedida por la SE Seguridad (art. 130.2).
+Nombre: Titular de autorización de residencia temporal por protección internacional (art. 130.3).
+Nombre: Joven extranjero TITULAR de autorización de residencia (art. 198) (Primera renovación).
+Nombre: Joven extranjero TITULAR de autorización de residencia (art. 198) (Segunda renovación).
+Nombre: RENOVACIÓN ESPECIAL DE RESIDENCIA.
+Nombre: Menor en tratamiento médico (art. 126.2).
+Nombre: RESIDENCIA Y TRABAJO.
+Nombre: Víctima de violencia de género (art. 132.1 y 134.1).
+Nombre: Hijo menor de víctima de violencia de género >16 años en España (art. 132.2 y 134.1).
+Nombre: Víctima de violencia sexual (art. 31 bis Ley Orgánica 4/2000).
+Nombre: Hijo menor de víctima de violencia sexual >16 años en España (art. 31 bis Ley Orgánica 4/2000).
+Nombre: Víctima de la trata de seres humanos (art. 144.5).
+Nombre: Hijo menor de víctima de trata >16 años en España (art. 59. Bis 2 LO 4/2000).
+Nombre: Colaborador/a contra redes organizadas (arts. 136.7 y 137.7).
+Nombre: Arraigo para la formación (finalización formación).

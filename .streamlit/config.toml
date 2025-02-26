@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#0B4C8E"
+backgroundColor = "#FFFFFF" # loby background
+#secondaryBackgroundColor = "#66A0CB" # Widget colors
+textColor = "#002F65" # Text color / plot titles / color in text from some widgets (not all)
