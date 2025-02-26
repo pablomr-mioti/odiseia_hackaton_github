@@ -7,13 +7,14 @@ import os
 import unicodedata
 import json
 
+import streamlit as st
 from pinecone import Pinecone
 from langchain_openai import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
 import cohere
 from pdf2image import convert_from_path
 
- 
+
 
 load_dotenv(os.path.dirname(__file__)+"/../../.env")
 
@@ -100,27 +101,27 @@ def create_index_if_not_exists(client, index_name):
 
 
 def setup_db(index_name):
-    pc = Pinecone(api_key=os.getenv('PINECONE_API_KEY'))
+    pc = Pinecone(api_key=st.secrets['PINECONE_API_KEY'])
     pc_index = create_index_if_not_exists(client=pc, index_name=index_name)
     return pc_index
 
 
 def setup_embeddings():
-    return OpenAIEmbeddings(model=os.getenv('EMBEDDING_MODEL'), dimensions=3072)
+    return OpenAIEmbeddings(model=st.secrets['EMBEDDING_MODEL'], dimensions=3072)
 
 
 def setup_encoding():
-    return tiktoken.encoding_for_model(os.getenv('OPENAI_MODEL'))
+    return tiktoken.encoding_for_model(st.secrets['OPENAI_MODEL'])
 
 
 def setup_cohere():
-    return cohere.ClientV2(api_key=os.getenv('COHERE_API_KEY'))
+    return cohere.ClientV2(api_key=st.secrets['COHERE_API_KEY'])
 
 
 def setup_model():
     return  ChatOpenAI(
-        model=os.getenv('OPENAI_MODEL'),
-        api_key = os.getenv('OPENAI_API_KEY'),
+        model=st.secrets['OPENAI_MODEL'],
+        api_key = st.secrets['OPENAI_API_KEY'],
         temperature=0.7,
         max_tokens=600,
         top_p=0.6,
